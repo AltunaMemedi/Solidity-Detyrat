@@ -1,0 +1,5 @@
+Shkruani një kontratë inteligjente, e cila i mer të dhënat e studentit, me parametrat ID, emri,
+mbiemri dhe drejtimi. ID të deklarohet si private dhe të meret përmes konstruktorit.
+
+Linku i kontratës në Etherscan:
+https://sepolia.etherscan.io/address/0x80e4B63F6b3B80e0dC6b1F10f43bD635dD701A94#code
