@@ -1,0 +1,6 @@
+Krijoni një kontratë në Solidity me një varg me madhësi fikse (fixed size array) dhe
+inicializoni vlerat përmes tastierës. Të përdoret funksioni shuma për mbledhjen e shumës së
+elementeve në vektor.
+
+Linku i kontratës në Etherscan:
+https://sepolia.etherscan.io/address/0xc9c893Dde2FEB56C1Cb55b14c3F5dd9C644e9a66#code
